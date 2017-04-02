@@ -8,6 +8,6 @@ This is a special case of the unbounded knapsack problem.
 
     $ make ve
     
-    $ ( . ve/bin/activate && ./range_to_roll 3 12 )
+    $ ( . ve/bin/activate && ./range_to_roll.py 3 12 )
     3d4
     d10+2
